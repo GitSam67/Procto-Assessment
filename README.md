@@ -1,2 +1,2 @@
 # Procto-Assessment
-Contains 2 folders 1st one -> Frontend Task &amp; 2nd one -> Business Logic (Server) Task
+Contains 2 folders Procto Project -> Frontend Task &amp; Server task -> Business Logic (Server) Task
