@@ -1,0 +1,27 @@
+.carousel .slider-wrapper {
+    width: 70%;
+}
+
+.slider {
+    height: 400px;
+}
+
+.drop {
+    top: 52px;
+    right:20px;
+    box-shadow: 5px 5px 5px 5px rgb(0, 0, 0, 0.1);
+}
+
+.side {
+    top: 0px;
+    left:0px;
+    box-shadow: 5px 5px 5px 5px rgb(0, 0, 0, 0.1);
+}
+
+.spinner {
+    animation: rotate 1s ease-in-out infinite;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
